@@ -13,14 +13,12 @@ body {
     -o-background-size: cover;
 }
 
-<<<<<<< HEAD
-=======
 /* @font-face {
 	font-family:dreamOrphans;
 	src:url(dreamOrphans.ttf);
 }
 div { font-family: 'dreamOrphans', sans-serif; } */
->>>>>>> ad5a089b11640d7a7166aa2df676cf6742ca1023
+,
 h1,
 h2,
 h3,
@@ -173,12 +171,9 @@ font-weight:normal;
 }
 
 footer {
-<<<<<<< HEAD
     background-color: thistle;
-=======
     background: #fff;
     background: thistle;
->>>>>>> ad5a089b11640d7a7166aa2df676cf6742ca1023
 }
 
 footer p {
