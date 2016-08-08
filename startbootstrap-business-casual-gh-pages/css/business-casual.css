@@ -13,6 +13,14 @@ body {
     -o-background-size: cover;
 }
 
+<<<<<<< HEAD
+=======
+/* @font-face {
+	font-family:dreamOrphans;
+	src:url(dreamOrphans.ttf);
+}
+div { font-family: 'dreamOrphans', sans-serif; } */
+>>>>>>> ad5a089b11640d7a7166aa2df676cf6742ca1023
 h1,
 h2,
 h3,
@@ -103,6 +111,49 @@ hr {
 	float: right;
 }
 
+<<<<<<< HEAD
+=======
+.box4 {
+	display: inline-block;
+	margin-bottom: 20px;
+	width:63%;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.box5 {
+display: inline-block;
+margin-bottom: 20px;
+width:32%;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+float:right;
+}
+
+.box6 {
+display: inline-block; 
+margin-bottom: 20px;
+width:45%;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+float:left;
+}
+
+.box7 {
+display: inline-block;
+margin-bottom: 100px;
+margin-left:5%;
+width:50%;
+    padding: 30px 15px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+font-weight:normal;
+}
+
+>>>>>>> ad5a089b11640d7a7166aa2df676cf6742ca1023
 .intro-text {
     text-transform: uppercase;
     font-size: 1.25em;
@@ -122,7 +173,12 @@ hr {
 }
 
 footer {
+<<<<<<< HEAD
     background-color: thistle;
+=======
+    background: #fff;
+    background: thistle;
+>>>>>>> ad5a089b11640d7a7166aa2df676cf6742ca1023
 }
 
 footer p {
